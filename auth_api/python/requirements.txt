@@ -1,1 +1,6 @@
 Flask
+pyjwt
+pymysql
+sqlalchemy
+tomli ; python_version < "3.11"
+gunicorn
